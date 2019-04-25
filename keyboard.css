@@ -1,3 +1,185 @@
 /* Define your CSS styles here */
 /* Remember to validate your CSS at https://jigsaw.w3.org/css-validator/ */
 
+
+html,body {
+    width: 100%;
+
+}
+div {
+    border-radius: 15px;
+    border: 6px solid #949599;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 20px 13px 20px;   
+    width: 20px;
+    background: grey;
+    border-style: outset;
+
+}
+.button:active {
+    border-style: inset;
+}
+ 
+.kcontainer1 {
+    display: flex;
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;
+}
+.kcontainer2 {
+    display: flex;
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;    
+
+}
+.kcontainer3 {
+    display: flex;
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;
+
+}
+.kcontainer4 {
+    display: flex;
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;
+
+}
+.kcontainer5 {
+    display: flex;
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;
+}
+#kcontainer {
+    background: unset;
+    border: unset;
+    height: unset;
+    margin: unset;
+    padding: unset;
+    width: unset;
+    
+}
+#Space {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 200px 13px 200px;   
+    width: 200px;
+    background: teal;
+    border-style: outset;
+}
+#Space:active{
+    border-style: inset;
+}
+ 
+#Cancel {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 30px 13px 30px;   
+    width: 30px;
+    background: teal;
+    border-style: outset;   
+}
+#Cancel:active{
+    border-style: inset;
+}
+#Accept {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 25px 13px 25px;   
+    width: 25px;
+    background: teal;
+    border-style: outset;
+}
+#Accept:active{
+    border-style: inset;
+} 
+#Shift1 {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 48px 13px 48px;   
+    width: 48px;
+    background: teal;
+    border-style: outset;
+}
+#Shift1:active{
+    border-style: inset;
+}
+#Shift2 {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 48.5px 13px 48.5px;   
+    width: 48.5px;
+    background: teal;
+    border-style: outset;
+}
+#Shift2:active {
+    border-style: inset;
+}
+#Enter {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 83px 13px 83px;   
+    width: 83px;
+    background: teal;
+    border-style: outset;
+}
+#Enter:active {
+    border-style: inset;
+}
+#Tab {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 30px 13px 30px;   
+    width: 30px;
+    background: teal;
+    border-style: outset;
+}
+#Tab:active {
+    border-style: inset;
+}
+#Bksp {
+    border-radius: 15px;
+    border: 6px solid #008090;
+    height: 20px;
+    margin: 13px 2px;
+    padding: 13px 31.5px 13px 31.5px;   
+    width: 31.5px;
+    background: teal;
+    border-style: outset;
+}
+#Bksp:active {
+    border-style: inset;
+}
